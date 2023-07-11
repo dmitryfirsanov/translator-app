@@ -1,0 +1,8 @@
+:root {
+  --page-max-width: 1100px;
+  --page-offset: 16px;
+  --page-offset-text: 64px;
+  --page-max-wide-width: 1800px;
+  --page-max-width-with-sidebar-direct: 1500px;
+  --page-offset-tablet: 36px;
+}
