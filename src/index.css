@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'IBMPlexMono';
+  src: local(NotoSerif),
+    url(./fonts/IBMPlexMono-Regular.ttf) format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'IBMPlexMono';
+  src: local(NotoSerif),
+    url(./fonts/IBMPlexMono-Bold.ttf) format('truetype');
+  font-weight: 700;
+}
+
 :root {
   --page-max-width: 1100px;
   --page-offset: 16px;
@@ -6,3 +20,48 @@
   --page-max-width-with-sidebar-direct: 1500px;
   --page-offset-tablet: 36px;
 }
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'IBMPlexMono';
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background: #e2e2e2;
+}
+
+.header-logo {
+  display: flex;
+  gap: 0.3em;
+}
+
+.header-logo-title {
+  color:black;
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+.header-nav {
+  display: flex;
+  gap: 2em;
+}
+
+.nav-link{
+  color: gray;
+  font-size: 1.2em;
+}
+
