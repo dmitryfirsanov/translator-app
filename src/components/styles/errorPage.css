@@ -27,12 +27,12 @@
   border-radius: 0.7em;
 }
 
-a:hover {
+.go-home:hover {
   background: #6757d8;
   color: #e2e2e2;
   transition: 0.75s;
 }
 
-a:not(:hover){
+.go-home:not(:hover){
   transition: 0.75s;
 }
