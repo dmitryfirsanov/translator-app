@@ -42,7 +42,6 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  height: 8%;
 }
 
 .header-logo {
@@ -66,10 +65,10 @@ a {
   font-size: 1.2em;
 }
 
-.page {
+.main-page {
   max-width: var(--page-max-width);
   margin: auto;
   display: flex;
   flex-direction: column;
-  height: 92%;
+  height: 100%;
 }
