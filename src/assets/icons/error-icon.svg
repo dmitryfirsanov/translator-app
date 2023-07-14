@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" baseProfile="basic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 16 16" xml:space="preserve"
-	 width="200px" height="200px">
-<g id="Layer_2">
-</g>
-<g id="Layer_1">
-	<circle style="fill:#FE3155;" cx="8" cy="8" r="8"/>
-	<polygon style="fill:#FFFFFF;" points="11.536,10.121 9.414,8 11.536,5.879 10.121,4.464 8,6.586 5.879,4.464 4.464,5.879 6.586,8 
-		4.464,10.121 5.879,11.536 8,9.414 10.121,11.536 	"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,256,256" width="200px" height="200px" fill-rule="nonzero"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.33333,5.33333)"><path d="M44,24c0,11.045 -8.955,20 -20,20c-11.045,0 -20,-8.955 -20,-20c0,-11.045 8.955,-20 20,-20c11.045,0 20,8.955 20,20z" fill="#fe3155"></path><path d="M29.656,15.516l2.828,2.828l-14.14,14.14l-2.828,-2.828z" fill="#ffffff"></path><path d="M32.484,29.656l-2.828,2.828l-14.14,-14.14l2.828,-2.828z" fill="#ffffff"></path></g></g></svg>
