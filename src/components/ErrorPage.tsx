@@ -1,12 +1,17 @@
 import { Link } from "react-router-dom";
 
+import errorIcon from '../assets/icons/error-icon.svg';
+import './styles/errorPage.css'
+
 function ErrorPage() {
   return (
-    <div>
-      <h2>Nothing to see here!</h2>
-      <p>
-        <Link to="/">Go to the home page</Link>
-      </p>
+    <div className="page-error">
+      <img src={errorIcon} alt="Error" />
+      <h2>Страница не найдена</h2>
+      <p>Возможно вы что-то неправильно ввели в адресной строке</p>
+      <Link className="go-home" to="/">
+        Вернуться на главную
+      </Link>
     </div>
   );
 }
