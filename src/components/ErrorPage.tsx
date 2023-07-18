@@ -5,7 +5,7 @@ import './styles/errorPage.css'
 
 function ErrorPage() {
   return (
-    <div className="page-error">
+    <div className="error-page">
       <img src={errorIcon} alt="Error" />
       <h2>Страница не найдена</h2>
       <p>Возможно вы что-то неправильно ввели в адресной строке</p>

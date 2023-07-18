@@ -1,17 +1,17 @@
-.page-error {
+.error-page {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: auto;
 }
 
-.page-error>h2 {
+.error-page h2 {
   font-size: 2.3em;
   margin-top: 1%;
   margin-bottom: 1.5%;
 }
 
-.page-error>p {
+.error-page p {
   font-size: 1.3em;
   margin: 0;
 }
