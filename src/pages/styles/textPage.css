@@ -1,0 +1,39 @@
+.text-page {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 5%;
+}
+
+.language-panel {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 1em;
+  background-color: #ffffff;
+  min-height: 50px;
+  border-radius: 1em 1em 0 0;
+  border-bottom: 2px solid #e2e2e2;
+}
+
+.text-box textarea {
+  resize: none;
+  min-height: 300px;
+  min-width: 450px;
+  padding: 1em;
+  background-color: #ffffff;
+  font-family: 'IBMPlexMono';
+  font-size: 1.5em;
+  outline: none;
+  border: none;
+  color: #090a09;
+}
+
+.text-box .input {
+  border-radius: 0 0 0 1em;
+  border-right: 2px solid #e2e2e2;
+}
+
+.text-box .output {
+  border-radius: 0 0 1em 0;
+}
